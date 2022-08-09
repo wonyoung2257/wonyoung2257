@@ -1,6 +1,11 @@
 ### Hi there 👋
-<a href="https://wonyoung2257.tistory.com/manage"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black"/></a>
+<a href="https://wonyoung2257.tistory.com/manage"><img src="https://img.shields.io/badge/Tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung2257&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsdud2257)](https://solved.ac/dnjsdud2257)
