@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung2257&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsdud2257)](https://solved.ac/dnjsdud2257)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnjsdud2257)](https://solved.ac/dnjsdud2257)
 
 <!--
 **wonyoung2257/wonyoung2257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
