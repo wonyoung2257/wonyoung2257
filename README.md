@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung2257&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsdud2257)](https://solved.ac/dnjsdud2257)
 
